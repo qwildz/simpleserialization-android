@@ -1,4 +1,5 @@
 # simpleserialization-android
+[![](https://jitpack.io/v/qwildz/simpleserialization-android.svg)](https://jitpack.io/#qwildz/simpleserialization-android)
 
 > Original project: http://code.google.com/p/simpleserialization By: jarontec@gmail.com
 
